@@ -9,9 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions and serving over 5 billion users.
-	We also offer Training for DevOps with Linux and Cloud Engineers for best performance.</h1>
+<h1 align="center">Deploying a Scalable Micro-Service Application to a Cloud Cluster</h1>
+<h1 align="center">In this project, a micro-service application will be deployed into a cloud cluster
+with less human intervention to provide a highly available, scalable, and cost-effective solution
+compared to service applications.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
